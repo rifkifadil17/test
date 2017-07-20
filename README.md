@@ -1,0 +1,9 @@
+# test
+Pengertian Internet atau Definisi Internet
+
+Secara harfiah, internet (kependekan dari interconnected-networking) ialah rangkaian komputer yang terhubung di dalam beberapa rangkaian. Manakala Internet (huruf ‘I’ besar) ialah sistem komputer umum, yang berhubung secara global dan menggunakan TCP/IP sebagai protokol pertukaran paket (packet switching communication protocol). Rangkaian internet yang terbesar dinamakan Internet. Cara menghubungkan rangkaian dengan kaedah ini dinamakan internetworking.
+
+Atau dengan kata lain, definisi internet adalah jaringan besar yang saling berhubungan dari jaringan-jaringan komputer yang menghubungkan orang-orang dan komputer-komputer diseluruh dunia, melalui telepon, satelit dan sistem-sistem komunikasi yang lain. Internet dibentuk oleh jutaan komputer yang terhubung bersama dari seluruh dunia, memberi jalan bagi informasi (mulai dari text, gambar, audio, video, dan lainnya ) untuk dapat dikirim dan dinikmati bersama. Untuk dapat bertukar informasi, digunakan protocol standar yaitu Transmision Control Protocol dan internet Protocol yang lebih dikenal sebagai TCP/IP.
+TCP (Transmission Control Protocol) bertugas untuk memastikan bahwa semua hubungan bekerja dengan benar, sedangkan IP (Internet Protocol) yang mentransmisikan data dari satu komputer ke komputer lain. TPC/IP secara umum berfungsi memilih rute terbaik transmisi data, memilih rute alternatif jika suatu rute tidak dapat di gunakan, mengatur dan mengirimkan paket-paket pengiriman data.
+
+Untuk dapat ikut serta menggunakan fasilitas Internet, Anda harus berlangganan ke salah satu ISP (Internet Service Provider) yang ada dan melayani daerah Anda. ISP ini biasanya disebut penyelenggara jasa internet. Anda bisa menggunakan fasilitas dari Telkom seperti Telkomnet Instan, speedy dan juga layanan ISP lain seperti first media, netzip dan sebagainya.
